@@ -27,5 +27,3 @@ Here are some ideas to get you started:
 
 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/sekiyaeiji/contributions.svg)](http://qiita.com/sekiyaeiji)
-
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/sekiyaeiji/followers.svg)](http://qiita.com/sekiyaeiji)
