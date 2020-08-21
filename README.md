@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## GitHub
+
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sekiyaeiji)
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=sekiyaeiji&layout=compact)
+
+## Qiita
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/sekiyaeiji/posts.svg)](http://qiita.com/sekiyaeiji)
+
+
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/sekiyaeiji/contributions.svg)](http://qiita.com/sekiyaeiji)
+
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/sekiyaeiji/followers.svg)](http://qiita.com/sekiyaeiji)
