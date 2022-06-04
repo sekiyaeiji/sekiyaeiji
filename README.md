@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Qiita
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/sekiyaeiji/posts.svg)](http://qiita.com/ag3_product)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/ag3_product/posts.svg)](http://qiita.com/ag3_product)
 
 
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/sekiyaeiji/contributions.svg)](http://qiita.com/sekiyaeiji)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ag3_product/contributions.svg)](http://qiita.com/ag3_product)
